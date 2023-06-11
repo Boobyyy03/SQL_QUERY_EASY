@@ -1,4 +1,4 @@
-use FUH_COMPANY
+use COMPANY
 -- Phần 1 : Truy vấn cơ bản : Select (chọn), from (từ bảng nào), where (điều kiện), order by (sắp xếp)
 --1. Hiển thị tất cả nhân viên
 
