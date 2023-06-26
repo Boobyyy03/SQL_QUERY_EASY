@@ -3,7 +3,7 @@ use COMPANY
 --1. Hiển thị tất cả nhân viên
 
 
---2. 
+--2. Hiển thị tất cả nhân viên có giới tính là nam 
 
 --3. hiển thị thông tin tất cả nhân viên nhưng chỉ lấy thông tin mã số, tên địa chỉ và ngày bắt đầu đi làm
 
@@ -24,7 +24,7 @@ use COMPANY
 
 --9. Lấy tất cả nhân viên có chữ 'Hoàng'
 
-
+--10. Lấy tất cả nhân viên có  tên lót là ''
 
 --11. Liệt kê tên nhân viên, lương, ngày vào làm sau đó sắp xếp giảm dần theo ngày vào làm, biét rằng nhân viên phải là nữ
 
